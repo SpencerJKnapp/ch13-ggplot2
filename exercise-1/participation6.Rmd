@@ -1,0 +1,25 @@
+---
+title: "Participation 6"
+author: "Spencer Knapp"
+date: "May 4, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+source("participation.R")
+library(ggplot2)
+library(dplyr)
+```
+
+```{r echo = F, message = F}
+
+plot_1
+
+plot_2
+
+plot_3
+
+plot_4
+
+plot_5
